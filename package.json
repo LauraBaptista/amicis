@@ -22,9 +22,17 @@
   },
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "bugs": {
     "url": "https://github.com/LauraBaptista/amicis/issues"
   },
   "homepage": "https://github.com/LauraBaptista/amicis#readme",
   "description": ""
+=======
+  "dependencies": {
+    "express": "^4.13.4",    
+    "ejs": "~2.3.3",
+    "mongoose": "^4.4.12"
+  }
+>>>>>>> 99ed240eec8d893d26fd552a7603db4a2ee1b626
 }
